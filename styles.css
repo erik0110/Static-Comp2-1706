@@ -112,6 +112,7 @@ header {
 .schedule:hover,
 .stats:hover {
   color: #4B3576;
+  cursor: pointer;
 }
 
 .stats-logo {
